@@ -53,4 +53,3 @@ func main() {
 	reportContent, reportCost := sendMessage(report)
 	fmt.Printf("Report Message: %s\nCost: %d\n", reportContent, reportCost)
 }
-
